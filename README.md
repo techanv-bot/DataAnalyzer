@@ -1,2 +1,6 @@
-# DataAnalyzer
-A comprehensive data analysis tool that provides insights and visualizations.
+
+### DataAnalyzer: Interactive Data Exploration Dashboard
+
+#### Project Outline:
+- **Objective**: Create a web-based tool for interactive data analysis and visualization.
+- **Tools**: Python, Pandas, Plotly, Flask.
